@@ -1,22 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceFabric.Utils.Middlewares", "ServiceFabric.Utils.Middlewares.csproj", "{9331C687-7707-4115-9DE9-711997D3B02B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceFabric.Utils.Middlewares", "ServiceFabric.Utils.Middlewares.csproj", "{03C9CE55-6678-4FD9-BA61-DF56473975C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Release|x64 = Release|x64
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9331C687-7707-4115-9DE9-711997D3B02B}.Debug|x64.ActiveCfg = Debug|x64
-		{9331C687-7707-4115-9DE9-711997D3B02B}.Debug|x64.Build.0 = Debug|x64
-		{9331C687-7707-4115-9DE9-711997D3B02B}.Release|x64.ActiveCfg = Release|x64
-		{9331C687-7707-4115-9DE9-711997D3B02B}.Release|x64.Build.0 = Release|x64
+		{03C9CE55-6678-4FD9-BA61-DF56473975C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C9CE55-6678-4FD9-BA61-DF56473975C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C9CE55-6678-4FD9-BA61-DF56473975C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C9CE55-6678-4FD9-BA61-DF56473975C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAAA49B5-EC8B-4F2E-A731-CD89C8CE3A71}
 	EndGlobalSection
 EndGlobal
