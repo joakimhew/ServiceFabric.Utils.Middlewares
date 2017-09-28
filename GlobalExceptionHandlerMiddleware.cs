@@ -32,6 +32,8 @@ namespace ServiceFabric.Utils.Middlewares
                     state       : context,
                     exception   : e,
                     formatter   : null);
+
+                throw e;
             }
         }
     }
